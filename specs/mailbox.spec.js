@@ -17,3 +17,4 @@ describe('Test', () => {
     expect(data.error.info).toEqual('You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]');
   });
 });
+
