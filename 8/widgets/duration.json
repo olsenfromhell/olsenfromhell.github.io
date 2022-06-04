@@ -1,0 +1,1 @@
+[{"uid":"10c63c070fdcf3c4","name":"Доступ с некорректным API key","time":{"start":1654349133531,"stop":1654349133725,"duration":194},"status":"passed","severity":"normal"},{"uid":"f6066966065c9276","name":"Доступ без API key","time":{"start":1654349133725,"stop":1654349133888,"duration":163},"status":"passed","severity":"normal"}]
